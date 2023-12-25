@@ -80,7 +80,7 @@ skills:
         icon: cat
         icon_pack: fas
       - name: Analyse
-        description: 'Familiar with fluorescence image processing, familiar with software operation of different instruments and image processing, familiar with Imagej's image processing.'
+        description: 'Familiar with fluorescence image processing, familiar with software operation of different instruments and image processing, familiar with Imagej image processing.'
         percent: 80
         icon: camera-retro
         icon_pack: fas
