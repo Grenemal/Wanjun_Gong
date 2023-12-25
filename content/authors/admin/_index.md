@@ -32,6 +32,8 @@ interests:
   - Supramolecular Chemistry
   - Aggregation-Induced Emission
   - Fluorescent Materials
+  - Gas Therapy
+  - Bioimaging
 
 # Education to show in About widget
 education:
