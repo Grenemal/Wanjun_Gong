@@ -65,22 +65,22 @@ skills:
         percent: 65
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Imaging
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
+      - name: Fluorescent Imaging
+        description: 'Proficiency in the operation of a variety of fluorescence imaging equipment, including general fluorescence microscopy, confocal laser microscopy, small animal 3D imaging, STORM super-resolution fluorescence microscopy, and STED super-resolution fluorescence microscopy.'
+        percent: 95
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
+      - name: Probe Design
+        description: 'Familiar with the staining operation of fluorescent probes, able to independently analyze the imaging results and speculate on the problems in the staining process, and accordingly solve the deficiencies of fluorescent probes. Proficient in the spectral and structural properties of commonly used fluorescent probes and able to design molecular structures for special needs. Experience in designing fluorescent probes for organelle staining, ion-specific recognition, bacterial specific labeling, immunohistochemistry, qPCR, chemiluminescence.'
+        percent: 95
         icon: cat
         icon_pack: fas
-      - name: Photography
-        description: ''
+      - name: Analyse
+        description: 'Familiar with fluorescence image processing, familiar with software operation of different instruments and image processing, familiar with Imagej's image processing.'
         percent: 80
         icon: camera-retro
         icon_pack: fas
@@ -92,22 +92,10 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: 'Wanjun0420@outlook.com'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://scholar.google.com.hk/citations?hl=zh-CN&user=qnIUx0AAAAAJ
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
