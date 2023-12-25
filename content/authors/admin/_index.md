@@ -29,21 +29,18 @@ bio: My research interests include AIE, Fluorescent probes, Theranostics, indust
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Supramolecular Chemistry
+  - Aggregation-Induced Emission
+  - Fluorescent Materials
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Chemical Engineering and Technology
+      institution: Wuhan University of Science and Technology
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BSc in Chemical Engineering and Technology
+      institution: Wuhan University of Science and Technology
       year: 2008
 
 # Skills
