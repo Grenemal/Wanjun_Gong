@@ -46,10 +46,10 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Chemistry
     items:
-      - name: Python
-        description: ''
+      - name: Organic Synthesis
+        description: 'Proficiency in common organic synthesis experimental techniques, able to design and complete molecular design and synthesis within 10 steps.'
         percent: 80
         icon: python
         icon_pack: fab
