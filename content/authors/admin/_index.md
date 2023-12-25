@@ -70,12 +70,12 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Fluorescent Imaging
-        description: 'Proficiency in the operation of a variety of fluorescence imaging equipment, including general fluorescence microscopy, confocal laser microscopy, small animal 3D imaging, STORM super-resolution fluorescence microscopy, and STED super-resolution fluorescence microscopy.'
+        description: 'Proficiency in the operation of , and STED super-resolution fluorescence microscopy.'
         percent: 95
         icon: person-hiking
         icon_pack: fas
       - name: Probe Design
-        description: 'Familiar with the staining operation of fluorescent probes, able to independently analyze the imaging results and speculate on the problems in the staining process, and accordingly solve the deficiencies of fluorescent probes. Proficient in the spectral and structural properties of commonly used fluorescent probes and able to design molecular structures for special needs. Experience in designing fluorescent probes for organelle staining, ion-specific recognition, bacterial specific labeling, immunohistochemistry, qPCR, chemiluminescence.'
+        description: 'Familiar with the staining operation of fluoresn the staining process, an, bacterial specific labeling, immunohistochemistry, qPCR, chemiluminescence.'
         percent: 95
         icon: cat
         icon_pack: fas
