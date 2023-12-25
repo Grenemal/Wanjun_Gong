@@ -53,16 +53,16 @@ skills:
       - name: Organic Synthesis
         description: 'Proficiency in common organic synthesis experimental techniques, able to design and complete molecular design and synthesis within 10 steps.'
         percent: 80
-        icon: python
+        icon: Chemistry
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: Characterization
+        description: 'Proficiency in various characterizations of organic compounds (NMR, MS, UV-absorption, fluorescence emission, infrared spectroscopy, Raman spectroscopy, single crystal XRD, powder XRD), experience in operating various instruments (NMR, MS, HPLC, UV-absorption, fluorescence emission, infrared spectroscopy, Raman spectroscopy, single crystal XRD, powder XRD), and in analyzing the results of characterizations.'
+        percent: 90
         icon: chart-line
         icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
+      - name: Software
+        description: 'Proficiency in chemistry related specialized software such as Chemdraw, Mestrenova, Origen, Prime, Diamond, Mercury, MDI Jade, Olex2, etc.'
+        percent: 65
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -119,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Wanjun Gong graduated from Wuhan University of Science and Technology, and has been engaged in postdoctoral research in Shenzhen University and Southern Medical University. His research interests include Host-guest recognition and assembly, super-resolution fluorescence imaging materials and technology, cell structure imaging materials, gas therapy, etc. He is now working in the AIEI, as the director of the Research Consumable Center. He is mainly responsible for the transformation of Academician Tang Benzhong's scientific research results on fluorescent probes, the establishment of screening and evaluation standards for fluorescent probes, and the construction of the aggregation science database. In recent years, he has published a number of papers as the first author in Angew. Chem., Biomaterials, Coord. Chem. Rev. and other international well-known journals, and has realized the industrialization of aggregation-induced emission materials at the level of microbial imaging, cellular imaging, and in vivo imaging, etc. He has also completed a number of national, provincial, municipal and self-supported research and development projects as a responsible person and a major participant. He has successfully developed more than 30 fluorescent products with independent intellectual property rights and realized sales profit.
 {style="text-align: justify;"}
