@@ -14,4 +14,10 @@ links:
 - name: URL
   url: 
     https://doi.org/10.2174/1385272819666140514005435
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+abstract: Self-healing or self-repairing materials are ‘smart materials’ that repair damage caused by mechanical force and are a key development of 21st century materials chemistry and engineering. In this review we describe a few excellent examples of self-healing supramolecular polymers based on host-guest interactions and discuss their advantages and versatility.
 ---

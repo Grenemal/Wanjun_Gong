@@ -18,4 +18,10 @@ links:
 - name: URL
   url: 
     https://doi.org/10.1002/chem.201605040
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+abstract: Invited for the cover of this issue is the group of Lyle Isaacs and Simin Liu at the University of Maryland and Wuhan University of Science and Technology. The image depicts two packed “sandwiches” and one supramolecular “Russian doll” that are assembled by host–guest and charge-transfer interactions.
 ---

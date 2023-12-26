@@ -21,4 +21,10 @@ links:
 - name: URL
   url: 
     https://doi.org/10.1007/s12200-020-1068-1
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+abstract: As a new method of cell-cell communication, tunneling nanotubes (TNTs) play important roles in cell-cell signaling and mass exchanges. However, a lack of powerful tools to visualize dynamic TNTs with high temporal/spatial resolution restricts the exploration of their formation and cleavage, hindering the complete understanding of its mechanism. Herein, we present the first example of using stochastic optical reconstruction microscopy (STORM) to observe the tube-like structures of TNTs linking live cells with an easily prepared fluorescent dye. Because of this new imaging microscopy, the cleavage process of TNTs was observed with a high spatial resolution.
 ---
