@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: 自述
+      title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -180,7 +180,7 @@ sections:
       flip_alt_rows: false
   - block: collection
     content:
-      title: 发表文章
+      title: Featured Publications
       text: |-
       filters:
         folders:
@@ -195,7 +195,7 @@ sections:
       text: |-
       filters:
         folders:
-          - publication
+          - patent
         exclude_featured: true
     design:
       columns: '1'
