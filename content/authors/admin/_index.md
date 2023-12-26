@@ -58,7 +58,7 @@ Skills:
       - name: 有机合成
         description: '熟练掌握有机合成技巧，可设计并完成15步以内的分子合成。具备高效、准确的实验经验和能力，'
         percent: 80
-        icon: Chemistry
+        icon: chemistry
         icon_pack: fab
       - name: 结构表征
         description: '熟练掌握有机化合物的各种表证，具有多种仪器的操作经验，并熟掌握表证结果的分析。'
@@ -95,17 +95,17 @@ Skills:
     items:
       - name: 市场
         description: '熟悉科研成果的转化流程及相关领域的知识，能够对特定产品的产业化潜力进行定性且定量的判断，对专业领域的市场需求敏感，能够根据市场需求快速的调整产业化方向。'
-        percent: 95
+        percent: 92
         icon: person-hiking
         icon_pack: fas
       - name: 文字
         description: '熟练掌握标准写作与建立技巧，具备丰富的基金申请经验，擅长各类基金的策划、撰写与申请。'
-        percent: 95
+        percent: 96
         icon: cat
         icon_pack: fas
       - name: 综合
         description: '具有出色的环境适应和学习能力，能够迅速融入新的工作环境，并快速掌握新的工作内容和技能，确保高效地完成任务。'
-        percent: 80
+        percent: 98
         icon: camera-retro
         icon_pack: fas
 
