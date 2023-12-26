@@ -3,7 +3,7 @@ title: 氢气纳米探针及氢气检测方法
 authors:
 - ' 何前军'
 - ' 龚晚君'
-date: -None-01
+date: 2022-01-06
 publishDate: '2023-12-26T09:13:12.791732Z'
 publication_types:
 - manuscript
