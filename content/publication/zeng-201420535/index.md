@@ -15,5 +15,5 @@ doi: 10.1039/c4ra00266k
 links:
 - name: URL
   url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-84901282510&doi=10.1039%2fc4ra00266k&partnerID=40&md5=7f2a2a4756035f59f3ef7e759c27a8f8
+   https://pubs.rsc.org/en/content/articlelanding/2014/RA/C4RA00266K
 ---
