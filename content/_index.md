@@ -39,13 +39,13 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: 自述
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
     id: skills  
     content:
-      title: Skills
+      title: 技巧
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin

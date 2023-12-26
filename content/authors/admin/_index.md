@@ -52,6 +52,8 @@ Education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 Skills:
   - name: 有机化学
+    color: '#1E90FF'
+    color_border: '#1E90FF'
     items:
       - name: 有机合成
         description: '熟练掌握有机合成技巧，可设计并完成15步以内的分子合成。具备高效、准确的实验经验和能力，'
@@ -88,8 +90,8 @@ Skills:
         icon: camera-retro
         icon_pack: fas
   - name: 成果转化
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: '#8B5742'
+    color_border: '#8B5742'
     items:
       - name: 市场
         description: '熟悉科研成果的转化流程及相关领域的知识，能够对特定产品的产业化潜力进行定性且定量的判断，对专业领域的市场需求敏感，能够根据市场需求快速的调整产业化方向。'
