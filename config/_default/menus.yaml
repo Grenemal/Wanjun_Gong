@@ -4,13 +4,13 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Ö÷Ò³
+  - name: ä¸»é¡µ
     url: '#about'
     weight: 10
-  - name: ¼¼ÇÉ
+  - name: æŠ€å·§
     url: '#skills'
     weight: 20
-  - name: ¹¤×÷¾­Ñé
+  - name: å·¥ä½œç»éªŒ
     url: '#experience'
     weight: 30
   - name: Projects
