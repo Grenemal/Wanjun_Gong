@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: China Hi-Tech Fair
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
