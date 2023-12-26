@@ -69,7 +69,7 @@ sections:
           location: 广州
           date_start: '2023-07-01'
           date_end: ''
-          description: |2-科研耗材研发中心产业化项目
+          description: |2-
               Responsibilities include:
 
               * 负责整个中心的日常工作及安全维护，负责中心的立项申请，专利申请等。
