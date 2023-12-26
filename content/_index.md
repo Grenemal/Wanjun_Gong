@@ -62,19 +62,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: 中心主任
+          company: 聚集诱导发光高等研究院
+          company_url: 'www.aietech.org.cn'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: 广州
+          date_start: '2023-07-01'
           date_end: ''
-          description: |2-
+          description: 科研耗材研发中心产业化项目
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * 负责整个中心的日常工作及安全维护，负责中心的立项申请，专利申请等。
+              * 负责中心产品在体外诊断领域的布局，医疗器械证、药物临床前测试等。
+              * 负责推进整个中心各个项目组的项目进度，标准化项目组的研发文件，标准化项目组的研发流程。
+              * 负责中心产品的市场推广，产品说明书、产品手册、宣传手册的设计，产品试用装、产品定价及产品包装的制定，产品销售代理商的联系，产品售后服务及技术支持。
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
