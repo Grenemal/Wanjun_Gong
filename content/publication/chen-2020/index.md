@@ -12,6 +12,9 @@ authors:
 - L. Liu
 - J. Qu
 - J.S. Kim
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: '2020-01-01'
 publishDate: '2023-12-25T09:23:48.279210Z'
 publication_types:
@@ -24,7 +27,7 @@ links:
     https://doi.org/10.1016/j.biomaterials.2020.119938
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
