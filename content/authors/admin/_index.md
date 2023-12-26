@@ -50,7 +50,7 @@ bio: My research interests include AIE, Fluorescent probes, Theranostics, indust
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-主要技巧:
+Skills:
   - name: 有机化学
     items:
       - name: 有机合成
