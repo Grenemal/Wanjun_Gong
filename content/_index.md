@@ -95,6 +95,22 @@ sections:
               * 负责中心产品的市场推广，产品说明书、产品手册、宣传手册的设计，产品试用装、产品定价及产品包装的制定，产品销售代理商的联系，产品售后服务及技术支持。
     design:
       columns: '2'
+        - title: 项目经理
+          company: 聚集诱导发光高等研究院
+          company_url: www.aietech.org.cn
+          company_logo: org-x
+          location: 广州
+          date_start: '2022-03-01'
+          date_end: '2022-06-30'
+          description: |2-
+              工作课题：聚集诱导发光分子在细胞荧光成像领域的产业化
+              工作内容：
+
+              * 收集归纳整理 AIE 荧光分子在不同领域的成像应用，选取合适的荧光分子进行产业化潜力评价。
+              * 针对荧光分子的成像应用，设定详细的实验以验证其成像效果，并根据成像结果进行进一步筛选。
+              * 针对其他项目组设计合适的荧光分子。
+    design:
+      columns: '3'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
