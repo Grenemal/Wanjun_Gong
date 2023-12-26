@@ -58,8 +58,8 @@ Skills:
       - name: 有机合成
         description: '熟练掌握有机合成技巧，可设计并完成15步以内的分子合成。具备高效、准确的实验经验和能力，'
         percent: 80
-        icon: hero/beaker
-        icon_pack: hero
+        icon: chemistry
+        icon_pack: custom
       - name: 结构表征
         description: '熟练掌握有机化合物的各种表证，具有多种仪器的操作经验，并熟掌握表证结果的分析。'
         percent: 90
