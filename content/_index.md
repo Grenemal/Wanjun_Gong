@@ -166,8 +166,10 @@ sections:
       buttons:
         - name: 所有
           tag: '*'
-        - name: 纵向
+        - name: 国家级
           tag: 纵向
+        - name: 省市级
+          tag: 省市级
         - name: 公司自立
           tag: 公司自立
     design:
