@@ -28,7 +28,7 @@ organizations:
 bio: My research interests include AIE, Fluorescent probes, Theranostics, industrialization.
 
 # Interests to show in About widget
-研究兴趣:
+Interests:
   - 超分子化学
   - 聚集诱导发光
   - 荧光材料
@@ -36,7 +36,7 @@ bio: My research interests include AIE, Fluorescent probes, Theranostics, indust
   - 生物成像
 
 # Education to show in About widget
-教育经历:
+Education:
   courses:
     - course: 交流学者，超分子化学
       institution: 马里兰大学
