@@ -40,7 +40,7 @@ education:
   courses:
     - course: 交流学者，超分子化学
       institution: 马里兰大学
-      year: 2008
+      year: 2015
     - course: 博士，化学工程与工艺
       institution: 武汉科技大学
       year: 2012
@@ -51,15 +51,15 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: 化学
+  - name: 有机化学
     items:
       - name: 有机合成
-        description: '熟练掌握常用有机合成实验技巧，能够设计并完成 10 步以内分子设计及合成。'
+        description: '熟练掌握有机合成技巧，可设计并完成15步以内的分子合成。具备高效、准确的实验经验和能力，'
         percent: 80
         icon: Chemistry
         icon_pack: fab
       - name: 结构表征
-        description: '熟练掌握有机化合物的各种表证（核磁、质谱、紫外吸收、荧光发射、红外光谱、拉曼光谱、 单晶XRD，粉末 XRD），具有多种仪器的操作经验（核磁、质谱、HPLC, 紫外吸收、荧光发射、红外光谱、拉曼光谱、单晶 XRD，粉末 XRD），并熟掌握表证结果的分析。'
+        description: '熟练掌握有机化合物的各种表证，具有多种仪器的操作经验，并熟掌握表证结果的分析。'
         percent: 90
         icon: chart-line
         icon_pack: fas
@@ -83,7 +83,7 @@ skills:
         icon: cat
         icon_pack: fas
       - name: 成像分析
-        description: '熟悉荧光图片的处理，熟悉不同仪器的软件操作及图片处理，熟悉 Imagej 的图片处理'
+        description: '熟悉荧光图片的处理及结果分析，熟悉不同仪器的软件操作及图片处理，熟悉 Imagej 的图片处理'
         percent: 80
         icon: camera-retro
         icon_pack: fas
@@ -97,12 +97,12 @@ skills:
         icon: person-hiking
         icon_pack: fas
       - name: 文字
-        description: '熟悉标准的写作与建立、善于各类基金的写作与申请'
+        description: '熟练掌握标准写作与建立技巧，具备丰富的基金申请经验，擅长各类基金的策划、撰写与申请。'
         percent: 95
         icon: cat
         icon_pack: fas
       - name: 综合
-        description: '具备较强的环境适应能力及学习能力，能够快速适应新的工作环境及工作内容。'
+        description: '具有出色的环境适应和学习能力，能够迅速融入新的工作环境，并快速掌握新的工作内容和技能，确保高效地完成任务。'
         percent: 80
         icon: camera-retro
         icon_pack: fas

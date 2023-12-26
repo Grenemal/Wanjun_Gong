@@ -1,19 +1,19 @@
 ---
-title: China Hi-Tech Fair
+title: 深圳高交会
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: 中国国际高新技术成果交易会
+event_url: https://www.chtf.com/liaojiegaojiaohui/
 
-location: Hugo Blox Builder HQ
+location: 香港中文大学（深圳）
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 龙翔大道2001号
+  city: 深圳市
+  region: 龙岗区
+  postcode: '518172'
+  country: 中国
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: 第25届高交会粤港澳大湾区产学研创新合作交流会新材料专场交流会。
+abstract: '为加快落实创新驱动发展战略，积极贯彻党的二十大报告明确提出“加强企业主导的产学研深度融合，强化目标导向，提高科技成果转化和产业化水平”的要求，结合衡水市委、市政府百日招商擂台赛的工作部署。2023年11月16-17 日，由衡水高新区管委会、北京中关村信息谷公司联合香港中文大学（深圳）举办的“第25届高交会粤港澳大湾区产学研创新合作交流会新材料专场交流会”在深圳市举办。.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -49,7 +49,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -63,11 +63,5 @@ projects:
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
 Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
