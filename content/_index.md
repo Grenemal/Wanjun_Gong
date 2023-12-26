@@ -49,7 +49,7 @@ sections:
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
-      columns: '2'
+      columns: '1'
   - block: experience
     content:
       title: 工作经验
@@ -152,7 +152,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: 项目经验
       filters:
         folders:
           - project
@@ -180,7 +180,18 @@ sections:
       flip_alt_rows: false
   - block: collection
     content:
-      title: Recent Publications
+      title: 发表文章
+      text: |-
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '1'
+      view: citation
+  - block: collection
+    content:
+      title: 发表专利
       text: |-
       filters:
         folders:
