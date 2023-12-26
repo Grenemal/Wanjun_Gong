@@ -22,4 +22,9 @@ links:
 - name: URL
   url: 
     https://doi.org/10.1016/j.biomaterials.2020.119938
+
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ''
+  preview_only: false
 ---
