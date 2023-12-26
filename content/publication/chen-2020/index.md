@@ -3,7 +3,7 @@ title: STORM imaging of mitochondrial dynamics using a vicinal-dithiol-proteins-
   probe
 authors:
 - Bingling Chen
-- Wanjun Gong
+- Gong Wanjun
 - Z. Yang
 - W. Pan
 - P. Verwilst
