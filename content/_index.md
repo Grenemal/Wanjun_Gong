@@ -179,13 +179,26 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
+    id: featured
     content:
       title: Recent Publications
       text: |-
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
+    design:
+      columns: '1'
+      view: citation
+  - block: collection
+    id: 
+    content:
+      title: Recent Patent
+      text: |-
+      filters:
+        folders:
+          - patent
+        exclude_featured: false
     design:
       columns: '1'
       view: citation
