@@ -93,9 +93,6 @@ sections:
               * 把控细胞成像项目组、活体成像项目组及设备项目组的研发方向，解决项目研发过程中遇到的问题。
               * 负责中心产品的市场推广，产品说明书、产品手册、宣传手册的设计，产品试用装、产品定价及产品包装的制定，产品销售代理商的联系，产品售后服务及技术支持。
               * 负责聚集体科学数据库的建设	
-
-
-Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
