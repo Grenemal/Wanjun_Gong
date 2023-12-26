@@ -181,7 +181,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Recent Publications
+      title: 近期文章
       text: |-
       filters:
         folders:
@@ -193,7 +193,7 @@ sections:
   - block: collection
     id: Patent
     content:
-      title: Recent Patent
+      title: 近期专利
       text: |-
       filters:
         folders:
