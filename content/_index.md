@@ -180,22 +180,11 @@ sections:
       flip_alt_rows: false
   - block: collection
     content:
-      title: Featured Publications
+      title: Recent Publications
       text: |-
       filters:
         folders:
           - publication
-        exclude_featured: true
-    design:
-      columns: '1'
-      view: citation
-  - block: collection
-    content:
-      title: 发表专利
-      text: |-
-      filters:
-        folders:
-          - patent
         exclude_featured: true
     design:
       columns: '1'
