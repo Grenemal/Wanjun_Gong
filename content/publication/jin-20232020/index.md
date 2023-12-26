@@ -15,5 +15,5 @@ doi: 10.1007/s12274-022-4860-y
 links:
 - name: URL
   url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85135825364&doi=10.1007%2fs12274-022-4860-y&partnerID=40&md5=6a0eb33273d83d589bc197cf32eecf96
+    https://doi.org/10.1007/s12274-022-4860-y
 ---

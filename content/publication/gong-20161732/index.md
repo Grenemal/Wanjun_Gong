@@ -13,5 +13,5 @@ doi: 10.7536/PC160936
 links:
 - name: URL
   url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85013970861&doi=10.7536%2fPC160936&partnerID=40&md5=7bec4cc995fca39ea87adda45ebdf98b
+    https://manu56.magtech.com.cn/progchem/EN/abstract/abstract11821.shtml
 ---

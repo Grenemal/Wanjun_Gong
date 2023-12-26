@@ -16,5 +16,5 @@ doi: 10.1016/j.apcata.2013.09.038
 links:
 - name: URL
   url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-84886734666&doi=10.1016%2fj.apcata.2013.09.038&partnerID=40&md5=cb0a00d2f6626b0cbd4d9d367fcc82c4
+    https://www.sciencedirect.com/science/article/pii/S0926860X13005802?via%3Dihub
 ---

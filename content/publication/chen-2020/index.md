@@ -21,5 +21,5 @@ doi: 10.1016/j.biomaterials.2020.119938
 links:
 - name: URL
   url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85081136722&doi=10.1016%2fj.biomaterials.2020.119938&partnerID=40&md5=7082b88f9a59fa256a447375ba25a03b
+    https://doi.org/10.1016/j.biomaterials.2020.119938
 ---

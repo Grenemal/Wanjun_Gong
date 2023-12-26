@@ -24,5 +24,5 @@ doi: 10.1002/agt2.263
 links:
 - name: URL
   url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85166393494&doi=10.1002%2fagt2.263&partnerID=40&md5=d98589778e9e03df9ba1e118834a4d97
+    https://doi.org/10.1002/agt2.263
 ---

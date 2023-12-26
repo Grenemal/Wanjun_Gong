@@ -13,5 +13,5 @@ doi: 10.20517/cs.2021.04
 links:
 - name: URL
   url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85126016680&doi=10.20517%2fcs.2021.04&partnerID=40&md5=5a1a6de0ec55f37a564800c25b7770e0
+    https://doi.org/10.20517/cs.2021.04
 ---

@@ -18,5 +18,5 @@ doi: 10.1021/acs.joc.6b02971
 links:
 - name: URL
   url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85015621679&doi=10.1021%2facs.joc.6b02971&partnerID=40&md5=6548c572e9f0f2dee7fbfc2bcbf88b50
+    https://doi.org/10.1021/acs.joc.6b02971
 ---

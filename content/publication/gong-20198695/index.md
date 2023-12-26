@@ -20,5 +20,5 @@ doi: 10.1039/c9cc02616a
 links:
 - name: URL
   url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85069768818&doi=10.1039%2fc9cc02616a&partnerID=40&md5=f9aece9277965e83b1bed2a2ad7b165e
+    https://doi.org/10.1039/c9cc02616a
 ---

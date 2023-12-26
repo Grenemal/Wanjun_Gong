@@ -17,5 +17,5 @@ doi: 10.1016/j.fuel.2013.11.030
 links:
 - name: URL
   url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-84890521139&doi=10.1016%2fj.fuel.2013.11.030&partnerID=40&md5=6639e72b6b57e87aa1e5465cd6fd5105
+    https://www.sciencedirect.com/science/article/pii/S0016236113011010?via%3Dihub
 ---

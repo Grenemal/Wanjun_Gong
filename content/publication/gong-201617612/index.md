@@ -17,5 +17,5 @@ doi: 10.1002/chem.201604149
 links:
 - name: URL
   url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-84996539886&doi=10.1002%2fchem.201604149&partnerID=40&md5=47c470ed70df6ccd415182a277438da8
+    https://doi.org/10.1002/chem.201604149
 ---

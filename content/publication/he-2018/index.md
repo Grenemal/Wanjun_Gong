@@ -18,5 +18,5 @@ doi: 10.1117/12.2293440
 links:
 - name: URL
   url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047362632&doi=10.1117%2f12.2293440&partnerID=40&md5=8a8ed173ff0750f8dd01d1d31bff35ea
+    https://doi.org/10.1117/12.2293440
 ---
