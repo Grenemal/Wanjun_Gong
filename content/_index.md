@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
+    id: skills  
     content:
       title: Skills
       text: ''
@@ -51,6 +52,7 @@ sections:
     design:
       columns: '1'
   - block: experience
+    id: experience
     content:
       title: 工作经验
       # Date format for experience
@@ -191,7 +193,7 @@ sections:
       columns: '1'
       view: citation
   - block: collection
-    id: 
+    id: Patent
     content:
       title: Recent Patent
       text: |-
