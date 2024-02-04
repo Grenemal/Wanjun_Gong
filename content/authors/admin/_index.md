@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 龚晚君
+title: Wanjun Gong
 
 # Name pronunciation (optional)
-name_pronunciation: Wanjun Gong
+name_pronunciation: 龚晚君
 
 # Full name (for SEO)
 first_name: Wanjun

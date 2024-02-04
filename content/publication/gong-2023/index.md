@@ -2,7 +2,7 @@
 title: 'ASBase: The universal database for aggregate science'
 authors:
 - J. Gong
-- W. Gong
+- admin
 - B. Wu
 - H. Wang
 - W. He
