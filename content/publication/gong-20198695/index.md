@@ -2,7 +2,7 @@
 title: 'Redefining the photo-stability of common fluorophores with triplet state quenchers:
   Mechanistic insights and recent updates'
 authors:
-- W. Gong
+- admin
 - P. Das
 - S. Samanta
 - J. Xiong

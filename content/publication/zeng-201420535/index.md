@@ -3,7 +3,7 @@ title: A nano-sized solid acid synthesized from rice hull ash for biodiesel prod
 authors:
 - D. Zeng
 - S. Liu
-- W. Gong
+- admin
 - H. Chen
 - G. Wang
 date: '2014-01-01'

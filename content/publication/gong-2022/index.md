@@ -2,7 +2,7 @@
 title: An Activity-Based Ratiometric Fluorescent Probe for In Vivo Real-Time Imaging
   of Hydrogen Molecules
 authors:
-- W. Gong
+- admin
 - L. Jiang
 - Y. Zhu
 - M. Jiang

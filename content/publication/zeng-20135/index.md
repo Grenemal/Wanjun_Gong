@@ -4,7 +4,7 @@ title: Acid properties of solid acid from petroleum coke by chemical activation 
 authors:
 - D. Zeng
 - S. Liu
-- W. Gong
+- admin
 - G. Wang
 - J. Qiu
 - Y. Tian

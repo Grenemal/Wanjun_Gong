@@ -2,7 +2,7 @@
 title: 'Inhibition and Stabilization: Cucurbituril Induced Distinct Effects on the
   Schiff Base Reaction'
 authors:
-- W. Gong
+- admin
 - J. Ma
 - Z. Zhao
 - F. Gao

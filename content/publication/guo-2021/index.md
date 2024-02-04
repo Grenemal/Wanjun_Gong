@@ -5,7 +5,7 @@ authors:
 - X. Guo
 - J. Liu
 - L. Jiang
-- W. Gong
+- admin
 - H. Wu
 - Q. He
 date: '2021-01-01'

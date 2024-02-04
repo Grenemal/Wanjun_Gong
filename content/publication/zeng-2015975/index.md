@@ -4,7 +4,7 @@ title: Effect of surface properties of iron oxide sorbents on hydrogen sulfide r
 authors:
 - D. Zeng
 - S. Liu
-- W. Gong
+- admin
 - G. Wang
 - J. Qiu
 - H. Chen

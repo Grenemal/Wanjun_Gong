@@ -2,7 +2,7 @@
 title: 'From Packed “Sandwich” to “Russian Doll”: Assembly by Charge-Transfer Interactions
   in Cucurbit[10]uril'
 authors:
-- W. Gong
+- admin
 - X. Yang
 - P.Y. Zavalij
 - L. Isaacs

@@ -2,7 +2,7 @@
 title: Self-healing supramolecular polymers via host-guest interactions
 authors:
 - S. Liu
-- W. Gong
+- admin
 - X. Yang
 date: '2014-01-01'
 publishDate: '2023-12-25T09:23:48.352990Z'

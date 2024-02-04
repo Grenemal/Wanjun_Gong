@@ -1,7 +1,7 @@
 ---
 title: Cucurbituril-based supramolecular nanoreactors/catalysts
 authors:
-- W. Gong
+- admin
 - Z. Zhao
 - S. Liu
 date: '2016-01-01'

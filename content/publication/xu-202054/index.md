@@ -4,7 +4,7 @@ title: Nanoliposomes Co-Encapsulating Photoswitchable Probe and Photosensitizer 
 authors:
 - H. Xu
 - B. Chen
-- W. Gong
+- admin
 - Z. Yang
 - J. Qu
 author_notes:

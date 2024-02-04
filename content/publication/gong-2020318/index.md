@@ -2,7 +2,7 @@
 title: Super-resolution imaging of the dynamic cleavage of intercellular tunneling
   nanotubes
 authors:
-- W. Gong
+- admin
 - W. Pan
 - Y. He
 - M. Huang

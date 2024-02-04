@@ -4,7 +4,7 @@ title: A Brønsted solid acid synthesized from fly ash for vapor phase dehydrati
 authors:
 - D. Zeng
 - S. Liu
-- W. Gong
+- admin
 - J. Qiu
 - H. Chen
 - G. Wang

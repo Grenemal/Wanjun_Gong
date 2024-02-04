@@ -1,7 +1,7 @@
 ---
 title: Gas probes and their application in gas therapy
 authors:
-- WanJun Gong
+- admin
 - Zhiqiang Yu
 - Qianjun He
 date: '2021-01-01'

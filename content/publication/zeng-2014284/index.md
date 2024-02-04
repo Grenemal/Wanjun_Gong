@@ -3,7 +3,7 @@ title: Synthesis, characterization and acid catalysis of solid acid from peanut 
 authors:
 - D. Zeng
 - S. Liu
-- W. Gong
+- admin
 - G. Wang
 - J. Qiu
 - H. Chen

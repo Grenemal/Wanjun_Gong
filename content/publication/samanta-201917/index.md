@@ -3,7 +3,7 @@ title: 'Organic fluorescent probes for stochastic optical reconstruction microsc
   (STORM): Recent highlights and future possibilities'
 authors:
 - S. Samanta
-- W. Gong
+- admin
 - W. Li
 - A. Sharma
 - I. Shim

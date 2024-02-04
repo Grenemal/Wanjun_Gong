@@ -4,7 +4,7 @@ title: Dual-functional fluorescent molecular rotor for endoplasmic reticulum mic
 authors:
 - Y. He
 - J. Shin
-- W. Gong
+- admin
 - P. Das
 - J. Qu
 - Z. Yang
