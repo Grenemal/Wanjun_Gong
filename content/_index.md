@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: '龚晚君的简历'
 date: 2022-10-24
 type: landing
 
