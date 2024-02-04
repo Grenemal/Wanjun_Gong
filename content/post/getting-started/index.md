@@ -1,9 +1,9 @@
 ---
-title: Welcome to Hugo Blox Builder, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: AIE细胞器成像探针系列
+subtitle: 聚集诱导发光细胞器成像探针系列，针对细胞亚结构：细胞膜、线粒体、溶酶体、内质网、高尔基体、脂滴、细胞核等出品的高特异性荧光染色液系列
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: 聚集诱导发光细胞器成像探针系列，针对细胞亚结构：细胞膜、线粒体、溶酶体、内质网、高尔基体、脂滴、细胞核等出品的高特异性荧光染色液系列
 
 # Link this post with a project
 projects: []
@@ -18,7 +18,7 @@ lastmod: '2020-12-13T00:00:00Z'
 draft: false
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -30,15 +30,14 @@ image:
 
 authors:
   - admin
-  - 吳恩達
 
 tags:
-  - Academic
-  - 开源
+  - AIE
+  - 细胞器
+  - 荧光染色液
 
 categories:
-  - Demo
-  - 教程
+  - 细胞染色液
 ---
 
 ```python

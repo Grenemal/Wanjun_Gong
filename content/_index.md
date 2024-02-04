@@ -207,7 +207,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: 产业化成果
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
