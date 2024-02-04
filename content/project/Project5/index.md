@@ -10,15 +10,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: weixin
+  - icon: google-scholar
     icon_pack: fab
-    name: WJ_Gong1989
-    url: ''
-links:
-  - icon: weixin
-    icon_pack: fab
-    name: 123
-    url: ''
+    name: 国家自然科学基金大数据知识管理服务
+    url: 'https://kd.nsfc.cn/finalDetails?id=f5ae6cd477368d7c8add00aede5bcd2f'
 url_code: ''
 url_pdf: ''
 url_slides: ''

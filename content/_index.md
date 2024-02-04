@@ -167,7 +167,7 @@ sections:
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
         - name: 所有
-          tag: 
+          tag: '*'
         - name: 国家级
           tag: 纵向
         - name: 省市级
