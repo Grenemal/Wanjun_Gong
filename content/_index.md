@@ -151,6 +151,7 @@ sections:
               * 利用 BODIPY 对粘度的相应，制备了粘度探针并通过荧光强度及荧光寿命对细胞内的粘度进行了双模态成像。
     design:
       columns: '2'
+      view: showcase
   - block: portfolio
     id: projects
     content:
