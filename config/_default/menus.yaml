@@ -22,10 +22,10 @@ main:
   - name: 专利
     url: '#Patent'
     weight: 60
-  - name: 图库
+  - name: 产品
     url: '#posts'
     weight: 60
-  - name: 随笔
+  - name: 图库
     url: '#Gallery'
     weight: 60
 
