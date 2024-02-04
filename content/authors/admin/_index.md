@@ -3,7 +3,7 @@
 title: Wanjun Gong
 
 # Name pronunciation (optional)
-name_pronunciation: 龚晚君
+name_pronunciation:   龚晚君  
 
 # Full name (for SEO)
 first_name: Wanjun
@@ -63,7 +63,7 @@ Skills:
       - name: 结构表征
         description: '熟练掌握有机化合物的各种表证，具有多种仪器的操作经验，并熟掌握表证结果的分析。'
         percent: 90
-        icon: chart-line
+        icon: atom
         icon_pack: fas
       - name: 分子设计
         description: '熟练掌握常用荧光探针的光谱性质、结构性质，能够针对特殊需求设计分子结构。具有细胞器染色、离子特异性识别、细菌特异性标记、免疫组化、qPCR、化学发光等荧光探针的设计经验。'
