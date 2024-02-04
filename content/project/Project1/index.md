@@ -6,14 +6,14 @@ tags:
 date: '2015-01-01T00:00:00Z'
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: google-scholar
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    name: 国家自然科学基金大数据知识管理服务
+    url: 'https://kd.nsfc.cn/finalDetails?id=1aa30dd0435bf3e7e621373b06bddd00'
 url_code: ''
 url_pdf: 'uploads/Project1.pdf'
 url_slides: ''

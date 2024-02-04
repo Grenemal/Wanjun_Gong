@@ -6,14 +6,14 @@ tags:
 date: '2018-01-01T00:00:00Z'
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: google-scholar
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://scholar.google.com.hk/citations?hl=zh-CN&user=qnIUx0AAAAAJ
 url_code: ''
 url_pdf: 'uploads/Project4.pdf'
 url_slides: ''

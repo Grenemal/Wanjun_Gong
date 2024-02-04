@@ -12,8 +12,8 @@ image:
 links:
   - icon: google-scholar
     icon_pack: fab
-    name: 国家自然科学基金大数据知识管理服务
-    url: 'https://kd.nsfc.cn/finalDetails?id=f5ae6cd477368d7c8add00aede5bcd2f'
+    name: Follow
+    url: https://scholar.google.com.hk/citations?hl=zh-CN&user=qnIUx0AAAAAJ
 url_code: ''
 url_pdf: ''
 url_slides: ''
