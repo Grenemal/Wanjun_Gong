@@ -194,8 +194,6 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: 所有
-          tag: '*'
         - name: 国家级
           tag: 纵向
         - name: 省市级
@@ -204,7 +202,7 @@ sections:
           tag: 公司自立
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
       view: compact
       # For Showcase view, flip alternate rows?
       flip_alt_rows: ture

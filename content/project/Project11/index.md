@@ -10,10 +10,6 @@ image:
   focal_point: Smart
 
 links:
-  - icon: arxiv
-    icon_pack: fab
-    name: AIE近红外纳米粒子系列
-    url: 'https://www.aietech.org.cn/probe_four/list/6/7.html'
 url_code: ''
 url_pdf: ''
 url_slides: ''

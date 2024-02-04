@@ -10,10 +10,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: arxiv
-    icon_pack: fab
-    name: AIE微生物探针系列
-    url: 'https://www.aietech.org.cn/probe_two/list/6/7.html'
+
 url_code: ''
 url_pdf: ''
 url_slides: ''
