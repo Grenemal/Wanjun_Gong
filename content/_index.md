@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: 自述
+      title: 简介
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills

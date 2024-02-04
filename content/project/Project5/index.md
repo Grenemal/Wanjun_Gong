@@ -12,10 +12,10 @@ image:
 links:
   - icon: weixin
     icon_pack: fab
-    name: Follow
-    url: 'images/Wechat.jpg'
+    name: WJ_Gong1989
+    url: ''
 url_code: ''
-url_pdf: 'uploads/Project5.pdf'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
