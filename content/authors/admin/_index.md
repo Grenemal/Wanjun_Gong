@@ -78,7 +78,7 @@ Skills:
         description: '熟练掌握多种荧光成像设备的操作，包括普通荧光显微镜、共聚焦激光显微镜、小动物 3D 成像、STORM 超分辨荧光显微镜、STED 超分辨荧光显微镜。'
         percent: 95
         icon: police-box
-        icon_pack: fas
+        icon_pack: fab
       - name: 生物染色
         description: '熟悉荧光探针的染色操作，能够独立分析成像结果并推测染色过程中的问题，依此解决荧光探针的不足。'
         percent: 95
@@ -107,7 +107,7 @@ Skills:
         description: '通过系统阅读和分析学术文献，提炼出关键信息，并使用图表、图形等可视化工具，将复杂信息以清晰的形式呈现。'
         percent: 91
         icon: draw-square
-        icon_pack: fas
+        icon_pack: fab
   - name: 成果转化
     color: '#8B5742'
     color_border: '#8B5742'
@@ -126,7 +126,7 @@ Skills:
         description: '具有出色的环境适应和学习能力，能够迅速融入新的工作环境，并快速掌握新的工作内容和技能，确保高效地完成任务。'
         percent: 98
         icon: gear-complex
-        icon_pack: fas
+        icon_pack: fab
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
