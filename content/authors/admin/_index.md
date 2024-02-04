@@ -89,6 +89,25 @@ Skills:
         percent: 80
         icon: camera-retro
         icon_pack: fas
+  - name: 信息处理
+    color: '#8B5742'
+    color_border: '#8B5742'
+    items:
+      - name: 搜索技巧
+        description: '运用多种搜索引擎和学术数据库，优化关键字和搜索字符串，以迅速定位相关文献，使用过滤器和高级搜索功能，提高搜索结果的准确性。'
+        percent: 92
+        icon: person-hiking
+        icon_pack: fas
+      - name: 知识领域
+        description: '具备多学科知识背景，能够涵盖不同领域的学术文献，在信息获取过程中，能够跨学科整合资源，获取全面而多维度的信息'
+        percent: 96
+        icon: cat
+        icon_pack: fas
+      - name: 信息提炼
+        description: '通过系统阅读和分析学术文献，提炼出关键信息，并使用图表、图形等可视化工具，将复杂信息以清晰的形式呈现。'
+        percent: 98
+        icon: camera-retro
+        icon_pack: fas
   - name: 成果转化
     color: '#8B5742'
     color_border: '#8B5742'
