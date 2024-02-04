@@ -25,7 +25,7 @@ organizations:
     url: https://www.aietech.org.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AIE, Fluorescent probes, Theranostics, industrialization.
+bio: 聚焦聚集诱导发光荧光材料的产业化
 
 # Interests to show in About widget
 Interests:
