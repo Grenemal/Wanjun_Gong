@@ -63,12 +63,12 @@ Skills:
       - name: 结构表征
         description: '熟练掌握有机化合物的各种表证，具有多种仪器的操作经验，并熟掌握表证结果的分析。'
         percent: 90
-        icon: atom
+        icon: pencil
         icon_pack: fas
       - name: 分子设计
         description: '熟练掌握常用荧光探针的光谱性质、结构性质，能够针对特殊需求设计分子结构。具有细胞器染色、离子特异性识别、细菌特异性标记、免疫组化、qPCR、化学发光等荧光探针的设计经验。'
         percent: 65
-        icon: database
+        icon: atom
         icon_pack: fas
   - name: 生物成像
     color: '#eeac02'
@@ -77,12 +77,12 @@ Skills:
       - name: 设备
         description: '熟练掌握多种荧光成像设备的操作，包括普通荧光显微镜、共聚焦激光显微镜、小动物 3D 成像、STORM 超分辨荧光显微镜、STED 超分辨荧光显微镜。'
         percent: 95
-        icon: person-hiking
+        icon: police-box
         icon_pack: fas
       - name: 生物染色
         description: '熟悉荧光探针的染色操作，能够独立分析成像结果并推测染色过程中的问题，依此解决荧光探针的不足。'
         percent: 95
-        icon: cat
+        icon: splotch
         icon_pack: fas
       - name: 成像分析
         description: '熟悉荧光图片的处理及结果分析，熟悉不同仪器的软件操作及图片处理，熟悉 Imagej 的图片处理'
@@ -90,23 +90,23 @@ Skills:
         icon: camera-retro
         icon_pack: fas
   - name: 信息处理
-    color: '#8B5742'
-    color_border: '#8B5742'
+    color: '#FF0000'
+    color_border: '#FF0000'
     items:
       - name: 搜索技巧
         description: '运用多种搜索引擎和学术数据库，优化关键字和搜索字符串，以迅速定位相关文献，使用过滤器和高级搜索功能，提高搜索结果的准确性。'
-        percent: 92
-        icon: person-hiking
+        percent: 96
+        icon: searchengin
         icon_pack: fas
       - name: 知识领域
         description: '具备多学科知识背景，能够涵盖不同领域的学术文献，在信息获取过程中，能够跨学科整合资源，获取全面而多维度的信息'
-        percent: 96
-        icon: cat
+        percent: 88
+        icon: book
         icon_pack: fas
       - name: 信息提炼
         description: '通过系统阅读和分析学术文献，提炼出关键信息，并使用图表、图形等可视化工具，将复杂信息以清晰的形式呈现。'
-        percent: 98
-        icon: camera-retro
+        percent: 91
+        icon: draw-square
         icon_pack: fas
   - name: 成果转化
     color: '#8B5742'
@@ -115,17 +115,17 @@ Skills:
       - name: 市场
         description: '熟悉科研成果的转化流程及相关领域的知识，能够对特定产品的产业化潜力进行定性且定量的判断，对专业领域的市场需求敏感，能够根据市场需求快速的调整产业化方向。'
         percent: 92
-        icon: person-hiking
+        icon: shop
         icon_pack: fas
       - name: 文字
         description: '熟练掌握标准写作与建立技巧，具备丰富的基金申请经验，擅长各类基金的策划、撰写与申请。'
         percent: 96
-        icon: cat
+        icon: i-cursor
         icon_pack: fas
       - name: 综合
         description: '具有出色的环境适应和学习能力，能够迅速融入新的工作环境，并快速掌握新的工作内容和技能，确保高效地完成任务。'
         percent: 98
-        icon: camera-retro
+        icon: gear-complex
         icon_pack: fas
 
 # Social/Academic Networking
@@ -150,5 +150,5 @@ social:
 highlight_name: true
 ---
 
-毕业于武汉科技大学，先后在深圳大学、南方医科大学从事博士后研究，常年专注于荧光材料的基础研究及转化应用，开发出多款应用于线粒体超分辨荧光成像生物探针、活体氢气检测生物探针等，以第一作者在Angew Chem. Biomaterials, Coor. Chem. Rev.等国际知名期刊发表论文十余篇；作为主要发明人申请国家专利8项，其中已授权3项；作为主要负责人及主要参与人完成了国家面上项目3项、省市级项目3项及多项研究院自立项目，总金额超700万；主导建设了全球首个以光谱为核心的大型分子数据库——聚集体科学数据库（www.asbase.cn）(https://www.asbase.cn)；成功开发三十余款具有自主知识产权的荧光产品，并实现盈利。
+毕业于武汉科技大学，先后在深圳大学、南方医科大学从事博士后研究，常年专注于荧光材料的基础研究及转化应用，开发出多款应用于线粒体超分辨荧光成像生物探针、活体氢气检测生物探针等，以第一作者在Angew Chem. Biomaterials, Coor. Chem. Rev.等国际知名期刊发表论文十余篇；作为主要发明人申请国家专利8项，其中已授权3项；作为主要负责人及主要参与人完成了国家面上项目3项、省市级项目3项及多项研究院自立项目，总金额超700万；主导建设了全球首个以光谱为核心的大型分子数据库——聚集体科学数据库[（www.asbase.cn）](https://www.asbase.cn)；成功开发三十余款具有自主知识产权的荧光产品，并实现盈利。
 {style="text-align: justify;"}
