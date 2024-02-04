@@ -66,7 +66,7 @@ Skills:
         icon: pencil
         icon_pack: fas
       - name: 分子设计
-        description: '熟练掌握常用荧光探针的光谱性质、结构性质，能够针对特殊需求设计分子结构。具有细胞器染色、离子特异性识别、细菌特异性标记、免疫组化、qPCR、化学发光等荧光探针的设计经验。'
+        description: '熟练掌握常用荧光探针的光谱性质、结构性质，能够针对细胞器染色、离子、细菌、免疫组化、qPCR、化学发光等设计荧光探针。'
         percent: 65
         icon: atom
         icon_pack: fas

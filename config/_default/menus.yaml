@@ -7,10 +7,10 @@ main:
   - name: 主页
     url: '#about'
     weight: 10
-  - name: 技巧
+  - name: 技能
     url: '#skills'
     weight: 20
-  - name: 产品
+  - name: 产品展示
     url: '#posts'
     weight: 30
   - name: 工作经验
