@@ -10,12 +10,12 @@ image:
   focal_point: Smart
 
 links:
-  - icon: google-scholar
+  - icon: arxiv
     icon_pack: fab
-    name: Follow
-    url: https://scholar.google.com.hk/citations?hl=zh-CN&user=qnIUx0AAAAAJ
+    name: AIE细胞器探针系列
+    url: 'https://www.aietech.org.cn/probe_one/list/6/7.html'
 url_code: ''
-url_pdf: 'uploads/Project5.pdf'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 

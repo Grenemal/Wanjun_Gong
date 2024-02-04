@@ -1,24 +1,23 @@
 ---
-title: AIE 细胞成像研究
+title: 蛋白质特异性标记
 summary: 公司自立项目，65万
 tags:
   - 公司自立
 date: '2023-04-01T00:00:00Z'
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 links:
-  - icon: google-scholar
-    icon_pack: fab
-    name: Follow
-    url: https://scholar.google.com.hk/citations?hl=zh-CN&user=qnIUx0AAAAAJ
+  - icon: 
+    icon_pack: 
+    name: 
+    url: 
 url_code: ''
-url_pdf: 'uploads/Project5.pdf'
+url_pdf: ''
 url_slides: ''
 url_video: ''
-
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

@@ -10,12 +10,12 @@ image:
   focal_point: Smart
 
 links:
-  - icon: google-scholar
-    icon_pack: fab
-    name: Follow
-    url: https://scholar.google.com.hk/citations?hl=zh-CN&user=qnIUx0AAAAAJ
+  - icon: 
+    icon_pack: 
+    name: 
+    url: 
 url_code: ''
-url_pdf: 'uploads/Project4.pdf'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 

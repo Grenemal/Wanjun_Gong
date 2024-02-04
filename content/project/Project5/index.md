@@ -6,14 +6,14 @@ tags:
 date: '2019-03-19T00:00:00Z'
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 links:
-  - icon: google-scholar
-    icon_pack: fab
-    name: Follow
-    url: https://scholar.google.com.hk/citations?hl=zh-CN&user=qnIUx0AAAAAJ
+  - icon: 
+    icon_pack: 
+    name: 
+    url: 
 url_code: ''
 url_pdf: ''
 url_slides: ''
