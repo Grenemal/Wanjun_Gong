@@ -10,10 +10,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: weixin
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: 'images/Wechat.jpg'
 url_code: ''
 url_pdf: 'uploads/Project5.pdf'
 url_slides: ''
