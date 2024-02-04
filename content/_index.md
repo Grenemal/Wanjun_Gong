@@ -58,7 +58,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       # Filter on criteria
       filters:
         folders:
@@ -203,6 +203,7 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
+      order: asc
       view: compact
       # For Showcase view, flip alternate rows?
       flip_alt_rows: ture
@@ -211,6 +212,7 @@ sections:
     content:
       title: 近期文章
       text: |-
+      count: 0
       filters:
         folders:
           - publication
@@ -223,6 +225,7 @@ sections:
     content:
       title: 近期专利
       text: |-
+      count: 0
       filters:
         folders:
           - patent

@@ -86,4 +86,4 @@ categories:
 
 ![png](Product4.png)
 
-产品访问(https://www.aietech.org.cn/probe_four/list/6/7.html)
+[产品链接](https://www.aietech.org.cn/probe_four/list/6/7.html)
