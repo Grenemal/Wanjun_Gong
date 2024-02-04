@@ -3,7 +3,7 @@ title: 微生物荧光检测
 summary: 公司自立项目，180万
 tags:
   - 公司自立
-date: '2022-01-01T00:00:00Z'
+date: '2022-12-01T00:00:00Z'
 
 image:
   caption: 

@@ -3,17 +3,14 @@ title: 白细胞五分类荧光染色液
 summary: 公司自立项目，150万
 tags:
   - 公司自立
-date: '2022-01-01T00:00:00Z'
+date: '2023-01-01T00:00:00Z'
 
 image:
   caption: 
   focal_point: Smart
 
 links:
-  - icon: 
-    icon_pack: 
-    name: 
-    url: 
+
 url_code: ''
 url_pdf: ''
 url_slides: ''

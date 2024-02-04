@@ -10,10 +10,6 @@ image:
   focal_point: Smart
 
 links:
-  - icon: 
-    icon_pack: 
-    name: 
-    url: 
 url_code: ''
 url_pdf: ''
 url_slides: ''

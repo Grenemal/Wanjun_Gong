@@ -3,17 +3,13 @@ title: 蛋白质特异性标记
 summary: 公司自立项目，65万
 tags:
   - 公司自立
-date: '2023-04-01T00:00:00Z'
+date: '2023-05-01T00:00:00Z'
 
 image:
   caption: 
   focal_point: Smart
 
 links:
-  - icon: 
-    icon_pack: 
-    name: 
-    url: 
 url_code: ''
 url_pdf: ''
 url_slides: ''
