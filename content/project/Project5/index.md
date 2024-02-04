@@ -18,10 +18,7 @@ url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
-  - icon: hero/academic-cap
-    icon_pack: fab
-    name: 国家自然科学基金成果转化服务平台
-    url: 'https://kd.nsfc.cn/finalDetails?id=f5ae6cd477368d7c8add00aede5bcd2f'
+
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
