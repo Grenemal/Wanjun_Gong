@@ -3,7 +3,7 @@
 title: Wanjun Gong
 
 # Name pronunciation (optional)
-name_pronunciation:   龚晚君  
+name_pronunciation:      龚晚君     
 
 # Full name (for SEO)
 first_name: Wanjun
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 中心主任
+role: 研发副总监
 
 # Organizations/Affiliations to show in About widget
 organizations:
