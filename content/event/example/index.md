@@ -19,7 +19,7 @@ abstract: '为加快落实创新驱动发展战略，积极贯彻党的二十大
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2030-06-01T13:00:00Z'
 date_end: '2030-06-01T15:00:00Z'
-all_day: false
+all_day: True
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
