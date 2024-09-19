@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 研发副总监
+role: 研发总监
 
 # Organizations/Affiliations to show in About widget
 organizations:
