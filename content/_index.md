@@ -90,6 +90,8 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
+
       items:
         - title: 研发总监
           company: 聚集诱导发光高等研究院
@@ -106,7 +108,6 @@ sections:
               * 负责科研耗材中心和创新中心的日常工作及安全维护，负责中心的立项，专利申请、产品注册及宣传等。
               * 根据研究院的整体战略规划和市场需求，制定中心的中长期研发项目、研发进度及研发目标。
 
-      items:
         - title: 研发副总监
           company: 聚集诱导发光高等研究院
           company_url: 'www.aietech.org.cn'
