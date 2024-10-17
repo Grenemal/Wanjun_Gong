@@ -90,7 +90,7 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-    items:
+      items:
         - title: 研发总监
           company: 聚集诱导发光高等研究院
           company_url: 'www.aietech.org.cn'
