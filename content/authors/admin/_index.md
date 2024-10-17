@@ -96,7 +96,7 @@ Skills:
       - name: 搜索技巧
         description: '运用多种搜索引擎和学术数据库，优化关键字和搜索字符串，以迅速定位相关文献，使用过滤器和高级搜索功能，提高搜索结果的准确性。'
         percent: 96
-        icon: searchengin
+        icon: search
         icon_pack: fas
       - name: 知识领域
         description: '具备多学科知识背景，能够涵盖不同领域的学术文献，在信息获取过程中，能够跨学科整合资源，获取全面而多维度的信息'
